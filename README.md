@@ -17,4 +17,4 @@
 
 ![Linguagens](https://img.shields.io/badge/L%20I%20N%20G%20U%20A%20G%20E%20N%20S-blue?style=for-the-badge)![OS](https://img.shields.io/badge/Sistema%20Operacional-black?style=for-the-badge)
 
-[![Linguagens2](https://skillicons.dev/icons?i=c,py,cpp)](https://skillicons.dev) [![Ferramentas2](https://skillicons.dev/icons?i=git,vscode,github)](https://skillicons.dev)   [![OS2](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
+[![Linguagens2](https://skillicons.dev/icons?i=cpp,c,py)](https://skillicons.dev) [![Ferramentas2](https://skillicons.dev/icons?i=git,vscode,github)](https://skillicons.dev)   [![OS2](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
